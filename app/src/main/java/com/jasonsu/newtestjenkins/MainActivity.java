@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
         TextView tv_test = (TextView)findViewById(R.id.tv_test);
         tv_test.setText("make some changes and don't push to repository!!!!!!!!!!!!!");
+        tv_test.setText("fff");
     }
 
     @Override
